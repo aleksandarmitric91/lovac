@@ -1,0 +1,62 @@
+C:\Users\Aleksandar\Desktop\lovac\lovac\bin\Debug\lovac.exe.config
+C:\Users\Aleksandar\Desktop\lovac\lovac\bin\Debug\lovac.exe
+C:\Users\Aleksandar\Desktop\lovac\lovac\bin\Debug\lovac.pdb
+C:\Users\Aleksandar\Desktop\lovac\lovac\obj\Debug\lovac.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\lovac\lovac\obj\Debug\lovac.fLovac.resources
+C:\Users\Aleksandar\Desktop\lovac\lovac\obj\Debug\lovac.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\lovac\lovac\obj\Debug\lovac.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Desktop\lovac\lovac\obj\Debug\lovac.exe
+C:\Users\Aleksandar\Desktop\lovac\lovac\obj\Debug\lovac.pdb
+C:\Users\Aleksandar\Desktop\lovac\lovac\obj\Debug\lovac.fDodajLovca.resources
+E:\sa desktopa\lovac\lovac\bin\Debug\lovac.exe.config
+E:\sa desktopa\lovac\lovac\obj\Debug\lovac.exe
+E:\sa desktopa\lovac\lovac\obj\Debug\lovac.pdb
+E:\sa desktopa\lovac\lovac\bin\Debug\lovac.exe
+E:\sa desktopa\lovac\lovac\bin\Debug\lovac.pdb
+E:\sa desktopa\lovac\lovac\obj\Debug\lovac.csprojResolveAssemblyReference.cache
+E:\sa desktopa\lovac\lovac\obj\Debug\lovac.fDodajLovca.resources
+E:\sa desktopa\lovac\lovac\obj\Debug\lovac.fLovac.resources
+E:\sa desktopa\lovac\lovac\obj\Debug\lovac.Properties.Resources.resources
+E:\sa desktopa\lovac\lovac\obj\Debug\lovac.csproj.GenerateResource.Cache
+E:\sa desktopa\lovac\lovac\obj\Debug\lovac.fDodajOruzije.resources
+E:\sa desktopa\lovac\lovac\bin\Debug\MySql.Data.dll
+E:\sa desktopa\lovac\lovac\bin\Debug\MySql.Data.xml
+C:\Program Files\lovac\lovac\lovac\bin\Debug\lovac.exe.config
+C:\Program Files\lovac\lovac\lovac\obj\Debug\lovac.exe
+C:\Program Files\lovac\lovac\lovac\obj\Debug\lovac.pdb
+C:\Program Files\lovac\lovac\lovac\bin\Debug\lovac.exe
+C:\Program Files\lovac\lovac\lovac\bin\Debug\lovac.pdb
+C:\Program Files\lovac\lovac\lovac\bin\Debug\MySql.Data.dll
+C:\Program Files\lovac\lovac\lovac\bin\Debug\MySql.Data.xml
+C:\Program Files\lovac\lovac\lovac\obj\Debug\lovac.csprojResolveAssemblyReference.cache
+C:\Program Files\lovac\lovac\lovac\obj\Debug\lovac.fDodajLovca.resources
+C:\Program Files\lovac\lovac\lovac\obj\Debug\lovac.fDodajOruzije.resources
+C:\Program Files\lovac\lovac\lovac\obj\Debug\lovac.fLovac.resources
+C:\Program Files\lovac\lovac\lovac\obj\Debug\lovac.Properties.Resources.resources
+C:\Program Files\lovac\lovac\lovac\obj\Debug\lovac.csproj.GenerateResource.Cache
+D:\lovac\lovac\lovac\bin\Debug\lovac.exe.config
+D:\lovac\lovac\lovac\obj\Debug\lovac.exe
+D:\lovac\lovac\lovac\obj\Debug\lovac.pdb
+D:\lovac\lovac\lovac\bin\Debug\lovac.exe
+D:\lovac\lovac\lovac\bin\Debug\lovac.pdb
+D:\lovac\lovac\lovac\bin\Debug\MySql.Data.dll
+D:\lovac\lovac\lovac\bin\Debug\MySql.Data.xml
+D:\lovac\lovac\lovac\obj\Debug\lovac.csprojResolveAssemblyReference.cache
+D:\lovac\lovac\lovac\obj\Debug\lovac.fDodajLovca.resources
+D:\lovac\lovac\lovac\obj\Debug\lovac.fDodajOruzije.resources
+D:\lovac\lovac\lovac\obj\Debug\lovac.fLovac.resources
+D:\lovac\lovac\lovac\obj\Debug\lovac.Properties.Resources.resources
+D:\lovac\lovac\lovac\obj\Debug\lovac.csproj.GenerateResource.Cache
+D:\lovac\lovac\bin\Debug\lovac.exe.config
+D:\lovac\lovac\obj\Debug\lovac.exe
+D:\lovac\lovac\obj\Debug\lovac.pdb
+D:\lovac\lovac\bin\Debug\lovac.exe
+D:\lovac\lovac\bin\Debug\lovac.pdb
+D:\lovac\lovac\bin\Debug\MySql.Data.dll
+D:\lovac\lovac\bin\Debug\MySql.Data.xml
+D:\lovac\lovac\obj\Debug\lovac.csprojResolveAssemblyReference.cache
+D:\lovac\lovac\obj\Debug\lovac.fDodajLovca.resources
+D:\lovac\lovac\obj\Debug\lovac.fDodajOruzije.resources
+D:\lovac\lovac\obj\Debug\lovac.fLovac.resources
+D:\lovac\lovac\obj\Debug\lovac.Properties.Resources.resources
+D:\lovac\lovac\obj\Debug\lovac.csproj.GenerateResource.Cache
